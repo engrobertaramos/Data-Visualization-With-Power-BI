@@ -10,7 +10,6 @@ For this data set, there is only one avaliation for each client.
 
 # Modeling
 The foccus in this case is working with the visual tools, preparing information to give to the management team insights about quality and time spend in each kind of operation. 
-The data set is almost complete to achive the goal, where was build a dynamic Dimension-Time table, using M language. 
 
 # Visual Presentation
 This dashboard was structured to "Z" read, starting from the left superior corner, where is located the City filter, reading the horizontal line. So, there is sumarized numbers in cards with important information and bellow this line, we have different types of graphics, such as: horizontal bar graphic with the amount os clients per operation. Next to this, we have the total of clients per month in a line graphic. The location of the cities and its participation in total number of clients is present in a map, where the legend represents the region of the country and the size of the circle, represents the volumn of clients in each city.
