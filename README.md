@@ -15,7 +15,7 @@ The foccus in this case is working with the visual tools, preparing information 
 This dashboard was structured to "Z" read, starting from the left superior corner, where is located the City filter, reading the horizontal line. So, there is sumarized numbers in cards with important information and bellow this line, we have different types of graphics, such as: horizontal bar graphic with the amount os clients per operation. Next to this, we have the total of clients per month in a line graphic. The location of the cities and its participation in total number of clients is present in a map, where the legend represents the region of the country and the size of the circle, represents the volumn of clients in each city.
 In the line below we have a donut chart with the percentual of each rating and the general rating. A table thats sumarized in numbers the information about total of clients, rating and waiting time. To compare the rating by each operation, it was used a radar chart.
 
-# Insitghs:
+# Insitghts:
 - [] General: 
 *The largest operation in this case it was in withdraw from savings account
 *In this year it was possible to identify a decrease tendency of numbers of clients
